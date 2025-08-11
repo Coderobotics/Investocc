@@ -17,4 +17,4 @@ Service worker for enhanced frontend caching
 Investocc is a PWA (progressive web app)
 
 More details and download link:
-**https://www.coderobotics.com/product/investment-php-script**
+https://www.coderobotics.com/product/a-powerful-stocks-trading-and-investment-php-script
